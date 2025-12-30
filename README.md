@@ -67,12 +67,12 @@ Most misclassifications occurred when:
 
 ## Repository contents
 
-- `MLFA25_HW3_RPuriCPSC393.ipynb` — End-to-end notebook:
+- `MLFA25_Birds_RPuri.ipynb` — End-to-end notebook:
   - Data loading + augmentation
   - Custom CNN training + curves (loss/accuracy)
   - Transfer learning model training + curves
   - Evaluation + example misclassifications
-- `MFA25 - Assignment3.pdf` — Technical report with methodology, learning curves, and results :contentReference[oaicite:11]{index=11}
+- `MFA25 - Birds.pdf` — Technical report with methodology, learning curves, and results
 
 ---
 
